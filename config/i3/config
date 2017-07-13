@@ -4,6 +4,7 @@
 # Should you change your keyboard layout some time, delete
 # this file and re-run i3-config-wizard(1).
 #
+smart_gaps on
 gaps inner 10
 gaps outer 7
 
